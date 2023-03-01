@@ -1,2 +1,0 @@
-# TypeScript_Calculator
-Basic TypeScript_Calculator
